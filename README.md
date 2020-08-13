@@ -1,2 +1,2 @@
 # plant-disease-detection
-ML project to get the disease name and also tells the symptoms,cause and management.
+ML project in which the model trained on leaves detects the disease from which it is suffering from.
